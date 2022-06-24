@@ -4,7 +4,8 @@
 *    Create a database instance, table and insert records into the table<br>
 <B>NOTE:</B>   <i>The record values for the table are to be retrieved from a csv file in the zip file <a href="https://github.com/mulongocheloti/Python-SQLite3-Connection/blob/main/data.rar">data.rar<a></i>
 ---
-<b>SOLUTION:</b>Done in Google Colab<br>
+<b>SOLUTION:</b>(Done in Google Colab)<br>
+ File: <a href="https://colab.research.google.com/drive/1q39-8u6vgiiqdraLJliDA4pONVrEMO5y?usp=sharing">DB programming.ipynb</a><br>
 Steps Involved;<br>
 1. Download the ([zip](https://github.com/mulongocheloti/Python-SQLite3-Connection/raw/main/data.rar)) file, unzip and copy .csv file into your working directory. Read it in.<br>
    Interested in only two fields; **'Countries'** and **'2017 vs 1990: change(%)'**<br>
