@@ -10,16 +10,12 @@ Steps Involved;<br>
 1. Download the ([zip](https://github.com/mulongocheloti/Python-SQLite3-Connection/raw/main/data.rar)) file, unzip and copy .csv file into your working directory. Read it in.<br>
    Interested in only two fields; **'Countries'** and **'2017 vs 1990: change(%)'**<br>
    Do any relevant transformations.<br>
-  
 2. Using SQL,
 *   Create a database instance.
 *   Create a table named **Emmission** with two fields  named **country** and **%_change(1990-2017)**
 *   From the selected columns, Insert relevant records into the two fields of the table Emmission and save the changes.
 *   Sort the table; with the country with the highest %_change(1990-2017) on top.
-<br>
-  
 3. Display only the top 10 countries.<br>
-  
 4. Plot a graph.
 <br>
  The clip below shows the steps and code running;<br><br>
